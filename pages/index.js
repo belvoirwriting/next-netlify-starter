@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Vale of Belvoir Writing Group" />
         <p className="description">
-          second Tuesday of the month
+          second Tuesday of the month<br>
+            words @ belvoirwriting.co.uk
         </p>
       </main>
 
