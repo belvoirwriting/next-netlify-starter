@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Vale of Belvoir Writing Group" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          second Tuesday of the month
         </p>
       </main>
 
