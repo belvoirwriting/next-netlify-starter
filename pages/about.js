@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Vale of Belvoir Writing Group" />
+        <Header title="since 2018" />
         <p className="description">
-          Since 2018 </p><p>
+          we've been meeting and sharing our words </p><p>
             words @ belvoirwriting.co.uk
         </p>
       </main>
